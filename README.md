@@ -1,6 +1,6 @@
 # ReCookie
 
-ReCookie is a tool used to refresh/generate new cookies from pre-existing cookies.
+Made this cuz I was bored, used to refresh/generate cookies from pre-existing cookies
 
 This works entirely from cookies, no passwords and usernames meaning no login captchas :)
 
